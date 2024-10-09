@@ -54,7 +54,7 @@ int main(){
 ## To-do-list
 
 - [x] typing club
-- [ ] markdown practice 
+- [x] markdown practice 
 - [ ] git learning
 - [ ] hw1
 
