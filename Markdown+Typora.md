@@ -2,6 +2,8 @@
 
 # [Markdown+Typora/VSCode 超全教程] 给大一新生安利的文本神器
 
+来源：https://www.bilibili.com/video/BV1hG411p7fX/?spm_id_from=333.880.my_history.page.click
+
 Sakiyary 2022/7/16
 
 ## 😂 简要介绍
